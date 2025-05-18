@@ -1,0 +1,3 @@
+Nama = Muhammad Aulia Jabbar
+Divisi = Programming
+Sub Divisi = Machine Learning
